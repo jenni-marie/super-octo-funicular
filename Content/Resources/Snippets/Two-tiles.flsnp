@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="two-tiles">
+            <div>
+                <p>First tile</p>
+            </div>
+            <div>
+                <p>This is the second tile</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Home.htm"
+  MasterPage="/Content/Resources/MasterPages/Othertopics.flmsp"
+  Skin="(none)"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ConditionTagExpression="@media web[ResponsiveConditions.Web], @media tablet[ResponsiveConditions.Tablet], @media mobile[ResponsiveConditions.Mobile]">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+  </Destinations>
+</CatapultTarget>

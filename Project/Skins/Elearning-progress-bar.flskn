@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="Component"
+  Comment="eLearning Toolbar skin"
+  ComponentType="ELearningToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Progress Text">
+        <Properties>
+          <Property
+            Name="Color">#ffffff</Property>
+          <Property
+            Name="FontSize">12px</Property>
+          <Property
+            Name="NoJustifyTextAlign">left</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Inner Progress Bar">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#002e2c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Outer Progress Bar">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#cdE0E7</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Progress Text">
+          <Properties>
+            <Property
+              Name="Color">#000000</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="ProgressBar" />
+  <Strings />
+</CatapultSkin>

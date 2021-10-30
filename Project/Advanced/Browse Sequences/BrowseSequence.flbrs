@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Menu"
+    Link="/Content/Sample Landing Topic.htm"></TocEntry>
+  <TocEntry
+    Title="Home"
+    Link="/Content/Sample Landing Topic.htm"></TocEntry>
+  <TocEntry
+    Title="Help"
+    Link="/Content/Sample Landing Topic.htm" />
+</CatapultToc>
