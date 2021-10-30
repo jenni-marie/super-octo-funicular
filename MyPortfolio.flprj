@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.flmsp" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="false" LastImport="2019-02-08T10:54:02.4479188-08:00">
+<CatapultProject Version="1" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.flmsp" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="false" LastImport="2019-02-08T10:54:02.4479188-08:00" SourceControlProviderType="Git" ProjectGuid="bbb91cb7-8d74-4559-84ce-f1c97cd57f97">
     <Files>
         <Url Source="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Sunset.flprj" AbsoluteSource="file:///C:/Users/jcatolico/Documents/My Projects/Sunsetog/Sunset.flprj" />
     </Files>
