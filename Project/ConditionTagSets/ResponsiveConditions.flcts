@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Web"
+    Comment="Content tagged with this responsive condition will only appear in the default web medium." />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Tablet"
+    Comment="Content tagged with this responsive condition will only appear in tablet medium." />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Mobile"
+    Comment="Content tagged with this responsive condition will only appear in mobile medium." />
+</CatapultConditionTagSet>

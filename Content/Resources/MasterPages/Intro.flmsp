@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body class="home-master-page">
+        <div id="contentBody" class="off-canvas-main">
+            <div class="topic-layout">
+                <div>
+                    <div class="logo">
+                        <p><a href="../../Home.htm"><img src="../Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" /></a>
+                        </p>
+                    </div>
+                    <div class="heading-master">
+                        <h1 class="heading-master"><MadCap:variable name="General.CourseTitle" />
+                        </h1>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <MadCap:snippetBlock src="../Snippets/Header-buttons.flsnp" />
+                        <div class="body-content intro">
+                            <MadCap:bodyProxy />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

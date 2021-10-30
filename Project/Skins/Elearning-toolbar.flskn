@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="Component"
+  Comment="eLearning Toolbar skin"
+  ComponentType="ELearningToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginTop">2em</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties>
+              <Property
+                Name="PaddingRight">0em</Property>
+              <Property
+                Name="PaddingLeft">0px</Property>
+              <Property
+                Name="ButtonOrder">row</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="NextTopic">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Complete">
+            <Properties></Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="Complete">
+              <Properties></Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+      <Style
+        Name="ToolbarItem (hover)">
+        <Properties>
+          <Property
+            Name="BackgroundGradient">vertical #DB7F67 #DB7F67</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic" />
+  <Strings />
+</CatapultSkin>
